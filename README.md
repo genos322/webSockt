@@ -1,4 +1,4 @@
-# webSockt
+# webSockt con sockect.io- express
 1.- Crear proyecto con npm init
 
 2.- Instalr express npm i express
