@@ -1,5 +1,5 @@
 # webSockt con sockect.io- express
-1.- Crear proyecto con "npm init appName"
+1.- Crear proyecto con "npm init"
 
 2.- Instalar express "npm i express"
 
