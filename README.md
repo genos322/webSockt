@@ -1,10 +1,10 @@
 # webSockt con sockect.io- express
+1.- Instalar paquetes "npm install"
+2.- Instalar de forma global nodemon "npm i nodemon -g"
 
-1.- Instalar de forma global nodemon "npm i nodemon -g"
+3- Instalar socket.io "npm install socket.io"
 
-2.- Instalar socket.io "npm install socket.io"
-
-3.- Ejecutar el proyecto con "nodemon app.js"
+4.- Ejecutar el proyecto con "nodemon app.js"
 
 
 
