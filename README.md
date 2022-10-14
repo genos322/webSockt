@@ -5,7 +5,9 @@
 
 3- Instalar socket.io "npm install socket.io"
 
-4.- Ejecutar el proyecto con "nodemon app.js"
+4.- Instalar express "npm install express"
+
+5.- Ejecutar el proyecto con "nodemon app.js"
 
 
 
