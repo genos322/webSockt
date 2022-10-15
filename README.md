@@ -5,13 +5,30 @@
 npm init
 ```
 
-2.- Instalar de forma global nodemon "npm i nodemon -g"
+2.- Instalar de forma global nodemon:
 
-3- Instalar socket.io "npm install socket.io"
+```
+npm i nodemon -g
+```
 
-4.- Instalar express "npm install express"
+3- Instalar socket.io:
 
-5.- Ejecutar el proyecto con "nodemon app.js"
+```
+npm install socket.io
+```
+
+4.- Instalar express:
+
+```
+npm install express
+```
+
+
+5.- Ejecutar el proyecto con:
+
+```
+nodemon app.js
+```
 
 
 
