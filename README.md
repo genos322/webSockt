@@ -1,5 +1,9 @@
 # webSockt con sockect.io- express
-1.- Instalar paquetes "npm init"
+1.- Instalar paquetes 
+
+```
+npm init
+```
 
 2.- Instalar de forma global nodemon "npm i nodemon -g"
 
